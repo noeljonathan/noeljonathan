@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Noel Marcell Jonathan Wongkar**.\
+Perkenalkan nama saya **Noel Marcell Jonathan Wongkar**
 
 Saya seorang **Mahasiswa** yang sekarang sedang melaksanakan Studi Independen di Bangkit Academy 
 
